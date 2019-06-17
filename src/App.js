@@ -16,7 +16,7 @@ function App() {
             <div className="App">
                 <AppNavbar />
                 <Container>
-                    <h1 className="text-center">Hello</h1>
+                    <h1 className="text-center">Dont forget anythink!</h1>
                     <ItemModal />
                     <ShoppingList />
                 </Container>
